@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-source-sans), "Source Sans Pro", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: #d9214a;
+  --color-brand-dark: #b81a3d;
+  --color-ink: #231f20;
+  --color-page: #f4f4f4;
+  --breakpoint-md: 40rem;
+  --breakpoint-lg: 64rem;
+}
